@@ -3,7 +3,6 @@
 __pycache__
 myvenv
 hlve
-db.sqlite3
 /static
 .DS_Store
 rs.bat
